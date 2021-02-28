@@ -1,2 +1,4 @@
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Anatole/Desktop/Test_et_verification/2_Hardware/vivado/project_1/project_1.srcs/sim_1/new/tb_top_level_PGCD_etape1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Anatole/Desktop/Test_et_verification/test_et_verification/2_Hardware/vivado/project_1/project_1.srcs/sources_1/imports/Téléchargements/Top_level_PGCD.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Top_level_PGCD'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Anatole/Desktop/Test_et_verification/test_et_verification/2_Hardware/vivado/project_1/project_1.srcs/sim_1/new/tb_top_level_PGCD_etape1.vhd" into library xil_defaultlib
 INFO: [VRFC 10-3107] analyzing entity 'tb_top_level_PGCD_etape1'
